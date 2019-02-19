@@ -3,7 +3,7 @@
 Sons de efeito do podcast Engenhação da Computaria
 
 <p align="center">
-  <img src="https://github.com/engcomputaria/logo/raw/master/images/engcomputaria.png" style="width: 140; height: 140"/>​
+  <img src="https://github.com/engcomputaria/logo/raw/master/images/engcomputaria.png" height="280" width="280">
 </p>
 
 Todos os áudios aqui contidos estão sob a licença [Creative Commons](https://br.creativecommons.org/) e podem ser encontrados no site [Free Music Archive](http://freemusicarchive.org).
